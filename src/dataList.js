@@ -1,0 +1,100 @@
+const list = [
+    {
+        id: 1,
+        title: "Fresh Mangoes",
+        details: "Lorem ipsum dolor sit amet",
+        price: 55,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-1.jpg",
+        amount: 1
+    },
+    {
+        id: 2,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-2.jpg",
+        amount: 1
+    },
+    {
+        id: 3,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-3.jpg",
+        amount: 1
+    },
+    {
+        id: 4,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-4.jpg",
+        amount: 1
+    },
+    {
+        id: 5,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-5.jpg",
+        amount: 1
+    },
+    {
+        id: 6,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-6.jpg",
+        amount: 1
+    },
+    {
+        id: 7,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-7.jpg",
+        amount: 1
+    },
+    {
+        id: 8,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-8.jpg",
+        amount: 1
+    },
+    {
+        id: 9,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-9.jpg",
+        amount: 1
+    },
+    {
+        id: 10,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-10.jpg",
+        amount: 1
+    },
+    {
+        id: 11,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-11.jpg",
+        amount: 1
+    },
+    {
+        id: 12,
+        title: "Fresh Bananas",
+        details: "Lorem ipsum dolor sit amet",
+        price: 65,
+        url: "https://raw.githubusercontent.com/navneetkumar22/charmy_first/master/img/product/product-12.jpg",
+        amount: 1
+    }
+];
+
+export default list;
