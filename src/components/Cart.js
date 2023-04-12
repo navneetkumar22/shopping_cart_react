@@ -44,7 +44,7 @@ const Cart = ({ cart, setCart }) => {
                 cart?.map((product) => (
                     <div className='final-cart'>
                         <div className='cart-image'>
-                            <img src={product.url} />
+                            <img src={product.url} alt=''/>
                             <h2>{product.title}</h2>
                         </div>
                         <div className='number'>
