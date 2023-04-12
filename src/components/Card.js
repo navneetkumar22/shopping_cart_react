@@ -6,7 +6,7 @@ const Card = ({ data, addToCart }) => {
     return (
         <div className='card'>
             <div className='image-div'>
-                <img src={url} alt='image' />
+                <img src={url} alt='' />
             </div>
             <div className='details'>
                 <h2>{title}</h2>
