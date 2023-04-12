@@ -3,12 +3,12 @@ import list from '../dataList';
 import Card from './Card';
 import '../App.css'
 
-const Products = () => {
+const Products = ({ addToCart }) => {
     return (
         <section className='cards-section'>
             {
                 list.map((item) => (
-                    <Card title={item.title} details={item.details} price={item.price} url={item.url} key={item.id} />
+                    <Card data={item} addToCart={addToCart} key={item.id} />
                 ))
             }
         </section>
