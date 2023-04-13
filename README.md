@@ -22,7 +22,11 @@ User can see the items added to the cart on the cart page.
 
 ## **Screenshots :**
 
-![Web Site Image](https://github.com/navneetkumar22/Dance_Home_page/blob/master/14.png)
+![Web Site Image](https://github.com/navneetkumar22/shopping_cart_react/blob/main/src/screenshot/products_page.png)
+
+<br>
+
+![Web Site Image](https://github.com/navneetkumar22/shopping_cart_react/blob/main/src/screenshot/cart_section.png)
 
 <br>
 
